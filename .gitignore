@@ -1,0 +1,13 @@
+node_modules
+/package-lock.json
+.eslintcache
+/dist/*
+/config/config.json
+/src/config/env/local.env
+/logs/*
+.env
+
+.gitlab-ci.yml
+*.sh
+*.csv
+*.xlsx
