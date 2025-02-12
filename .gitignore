@@ -6,7 +6,7 @@ node_modules
 /src/config/env/local.env
 /logs/*
 .env
-
+/relation_key
 .gitlab-ci.yml
 *.sh
 *.csv
